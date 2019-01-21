@@ -1,0 +1,16 @@
+info\joelwilson\model\CustomerOrder.class
+info\joelwilson\model\ProductCategory.class
+info\joelwilson\model\CartProduct.class
+info\joelwilson\model\Product.class
+info\joelwilson\model\ProductImage.class
+info\joelwilson\model\ProductReview.class
+info\joelwilson\model\ProductReviewComment.class
+info\joelwilson\model\Manufacturer.class
+info\joelwilson\model\Customer.class
+Main.class
+info\joelwilson\model\Administrator.class
+info\joelwilson\model\OrderProduct.class
+info\joelwilson\model\ShippingAddress.class
+info\joelwilson\model\CustomerEmail.class
+info\joelwilson\util\HibernateUtil.class
+info\joelwilson\model\Cart.class
